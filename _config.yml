@@ -8,6 +8,6 @@ description:
   I'm working as Senior Software Developer, currently pursuing EPG in Machine Learning and AI.
   I am passionate about exploring new technologies and creating meaningful solutions.<br>
   </p>
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
