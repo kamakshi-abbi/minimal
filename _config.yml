@@ -1,6 +1,13 @@
-title: Minimal theme
+title: Kamakshi Abbi
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+description: 
+<p align="center">
+  <a href="https://in.linkedin.com/in/kamakshi-abbi-39538a36">LinkedIn</a> |
+  <a href="https://github.com/kamakshi-abbi">GitHub</a>
+  <br>   
+  I'm working as Senior Software Developer, currently pursuing EPG in Machine Learning and AI.
+  I am passionate about exploring new technologies and creating meaningful solutions.<br>
+  </p>
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
